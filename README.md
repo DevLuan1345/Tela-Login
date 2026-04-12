@@ -8,9 +8,9 @@ Um dos destaques do projeto é a utilização da API Unsplash, responsável por 
 
 ## 🚀 Tecnologias utilizadas
 
-HTML5 🟧
-CSS3 🟦
-API de imagens (Unsplash) 📌
+- HTML5 🟧
+- CSS3 🟦
+- API de imagens (Unsplash) 📌
 
 ## 🎯 Objetivo
 
