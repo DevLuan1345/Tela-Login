@@ -29,6 +29,6 @@ A tela foi desenvolvida pensando em adaptação para diferentes dispositivos, ga
 
 ## 🖇️ Links
 
-Repositório: https://github.com/DevLuan1345/Tela-Login
+Repositório: 
 
-Deploy do Projeto: https://devluan1345.github.io/Tela-Login/
+Deploy do Projeto: 
